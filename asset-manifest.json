@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dm-agency/static/css/main.f251f349.css",
+    "main.js": "/Dm-agency/static/js/main.ebf31c63.js",
+    "static/js/453.09474042.chunk.js": "/Dm-agency/static/js/453.09474042.chunk.js",
+    "index.html": "/Dm-agency/index.html",
+    "main.f251f349.css.map": "/Dm-agency/static/css/main.f251f349.css.map",
+    "main.ebf31c63.js.map": "/Dm-agency/static/js/main.ebf31c63.js.map",
+    "453.09474042.chunk.js.map": "/Dm-agency/static/js/453.09474042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f251f349.css",
+    "static/js/main.ebf31c63.js"
+  ]
+}
